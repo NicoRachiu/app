@@ -82,7 +82,7 @@
             },
             "time": "2023-02-02T22:02:53+00:00"
         },
-        {
+                {
             "name": "doctrine/lexer",
             "version": "3.0.1",
             "source": {
@@ -159,7 +159,7 @@
             ],
             "time": "2024-02-05T11:56:58+00:00"
         },
-        {
+                {
             "name": "psr/cache",
             "version": "3.0.0",
             "source": {
@@ -939,7 +939,7 @@
             ],
             "time": "2022-01-02T09:55:41+00:00"
         },
-        {
+                {
             "name": "symfony/dotenv",
             "version": "v6.0.19",
             "source": {
@@ -2324,7 +2324,7 @@
             ],
             "time": "2022-05-30T19:17:58+00:00"
         },
-        {
+                {
             "name": "symfony/string",
             "version": "v6.0.19",
             "source": {
@@ -3099,7 +3099,7 @@
             },
             "require": {
                 "php": "^7.2 || ^8.0"
-            },
+                        },
             "require-dev": {
                 "doctrine/coding-standard": "^11.0",
                 "phpstan/phpstan": "^1.8",
@@ -3125,18 +3125,18 @@
                 },
                 {
                     "name": "Roman Borschel",
-                    "email": "roman@code-factory.org"
+            "email": "roman@code-factory.org"
                 },
                 {
-                    "name": "Benjamin Eberlei",
-                    "email": "kontakt@beberlei.de"
-                },
-                {
+                "name": "Benjamin Eberlei",
+                "email": "kontakt@beberlei.de"
+            },
+            {
                     "name": "Jonathan Wage",
                     "email": "jonwage@gmail.com"
                 },
-                {
-                    "name": "Johannes Schmitt",
+        {
+            "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com"
                 }
             ],
